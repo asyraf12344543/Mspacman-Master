@@ -19,4 +19,4 @@ If you would like to improve or extend the agent please send me an e-mail at tom
 2) Use at least TWO AI methods discussed in the lecture to implement TWO different Ms Pac-Man agents.  
  Hints:  You may use available Java templates/classes/packages to implement the agent.  BUT you must cite/make reference of the source.
 
-3? Design a performance measure and compare the performance of the TWO algorithms (through the TWO agents).
+3) Design a performance measure and compare the performance of the TWO algorithms (through the TWO agents).
